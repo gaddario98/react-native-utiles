@@ -1,1 +1,0 @@
-{"version":3,"file":"index.mjs","sources":["../../index.ts"],"sourcesContent":["import { Linking } from \"react-native\";\n\nexport const openLink = (url: string) => {\n  Linking.openURL(url);\n};\n\nexport * from \"@gaddario98/utiles\";\n"],"names":[],"mappings":";;;AAEa,MAAA,QAAQ,GAAG,CAAC,GAAW,KAAI;AACtC,IAAA,OAAO,CAAC,OAAO,CAAC,GAAG,CAAC;AACtB;;;;"}
