@@ -1,6 +1,6 @@
 {
   "name": "@gaddario98/react-native-utiles",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -26,7 +26,7 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "@gaddario98/utiles": "^1.0.15"
+    "@gaddario98/utiles": "^1.0.16"
   },
   "peerDependencies": {
     "react": ">=18.0.0 <20.0.0",
